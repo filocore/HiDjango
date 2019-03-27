@@ -1,4 +1,7 @@
 # Django 学习记录
+
+demo 记录了 Django 的学习及开发历程，从基础入手，从无到有，指向性学习，从 Django 框架 -> Python -> 前端。通过该学习顺序快速完成学习旅程。
+
 ## 一、Django 入门
 1. 安装/升级 Python3
 2. Django 框架
@@ -16,4 +19,5 @@
 
 ## 四、html/css
 ## 五、JavaScript
+
 
